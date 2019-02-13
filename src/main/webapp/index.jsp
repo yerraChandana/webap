@@ -1,8 +1,8 @@
 <html>
-<body bgcolor="Blue">
+<body bgcolor="green">
 <h1>
 
-The Job executed successfully
+The Job executed.
 </h1>
 </body>
 </html>
