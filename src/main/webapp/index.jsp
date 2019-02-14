@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="green">
+<body bgcolor="blue">
 <h1>
 
 The Job executed.
